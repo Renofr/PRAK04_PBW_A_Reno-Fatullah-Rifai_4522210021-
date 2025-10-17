@@ -170,6 +170,9 @@ Route::get('/dashboard', function () {
 
 ## Hasil Running
 
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/9ac0cdc8-cf8d-41d8-9fbb-d10a16bbb203" />
+
+
 Setelah instalasi dan modifikasi route:
 
 1. ✅ Akses `http://localhost:8000` menampilkan halaman login secara langsung
